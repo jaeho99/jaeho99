@@ -1,5 +1,35 @@
 ## Hi there 👋
 
+
+항해99 팀 프로젝트(백앤드)
+- 2022.07 ~ 3주
+- 
+코리아 IT 아카데미 팀 프로젝트(풀스택) 
+- 2020.12 ~ 3주
+
+
+React 링크
+- HTML
+- CSS
+- JavsScript
+- Vue.js
+- React 기초
+- GraphQL
+
+Git 링크
+- 컨벤션
+- MarkDown
+
+Spring
+- java
+- MVC
+- RestApi
+- Redis
+- Chat
+
+CS 공부
+
+
 <!--
 **jaeho99/jaeho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
