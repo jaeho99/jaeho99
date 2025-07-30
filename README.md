@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 
-항해99 팀 프로젝트(백앤드, REST API)
+[항해99 팀 프로젝트(백앤드, REST API)](https://github.com/jaeho99/7E7-BE)
 - 2022.07 ~ 3주
 - JPA, MySQL, Redis Pub/Sub, AWS EC2/S3
 
-코리아 IT 아카데미 팀 프로젝트(풀스택, MVC) 
+[코리아 IT 아카데미 팀 프로젝트(풀스택, MVC)](https://github.com/jaeho99/teamproject)
 - 2020.12 ~ 3주
 - JSP, Oracle, JavaScript, jQuery, Maven, Mybatis
 
-React 링크
+[React](https://github.com/jaeho99/ReactStudy)
 - HTML
 - CSS
 - JavsScript
@@ -17,7 +17,7 @@ React 링크
 - React 기초
 - GraphQL
 
-Git 링크
+[Git](https://github.com/jaeho99/GitStudy)
 - 컨벤션
 - MarkDown
 
@@ -29,7 +29,9 @@ Spring
 - Chat
 
 CS 공부
-
+- 네트워크
+- 데이터베이스
+  
 
 <!--
 **jaeho99/jaeho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
