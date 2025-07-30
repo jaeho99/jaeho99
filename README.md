@@ -1,12 +1,13 @@
 ## Hi there 👋
 
 
-항해99 팀 프로젝트(백앤드)
+항해99 팀 프로젝트(백앤드, REST API)
 - 2022.07 ~ 3주
-- 
-코리아 IT 아카데미 팀 프로젝트(풀스택) 
-- 2020.12 ~ 3주
+- JPA, MySQL, Redis Pub/Sub, AWS EC2/S3
 
+코리아 IT 아카데미 팀 프로젝트(풀스택, MVC) 
+- 2020.12 ~ 3주
+- JSP, Oracle, JavaScript, jQuery, Maven, Mybatis
 
 React 링크
 - HTML
