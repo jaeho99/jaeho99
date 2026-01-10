@@ -1,13 +1,27 @@
-## Hi there 👋
+## Backend 개발자 신입 김재호입니다. 👋
 
+팀 프로젝트(2개)
 
 [항해99 팀 프로젝트(백앤드, REST API)](https://github.com/jaeho99/7E7-BE)
-- 2022.07 ~ 3주
+교육 기간 : 3개월 주 6일 12시간 씩
+프로젝트 기간 : 6주
+기술
 - JPA, MySQL, Redis Pub/Sub, AWS EC2/S3
 
 [코리아 IT 아카데미 팀 프로젝트(풀스택, MVC)](https://github.com/jaeho99/teamproject)
-- 2020.12 ~ 3주
+교육 기간 : 6개월 평일 9시간 씩
+프로젝트 기간 : 3주
+기술
 - JSP, Oracle, JavaScript, jQuery, Maven, Mybatis
+
+Spring
+- Java
+- MVC
+- RestApi
+- Redis
+- Chat
+
+AI
 
 [React](https://github.com/jaeho99/ReactStudy)
 - HTML
@@ -17,16 +31,10 @@
 - React 기초
 - GraphQL
 
+
 [Git](https://github.com/jaeho99/GitStudy)
 - 컨벤션
 - MarkDown
-
-Spring
-- java
-- MVC
-- RestApi
-- Redis
-- Chat
 
 CS 공부
 - 네트워크
