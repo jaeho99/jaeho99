@@ -3,16 +3,23 @@
 팀 프로젝트(2개)
 
 [항해99 팀 프로젝트(백앤드, REST API)](https://github.com/jaeho99/7E7-BE)
+
 교육 기간 : 3개월 주 6일 12시간 씩
 프로젝트 기간 : 6주
 기술
 - JPA, MySQL, Redis Pub/Sub, AWS EC2/S3
 
+아키텍쳐(그림) 첨부
+
 [코리아 IT 아카데미 팀 프로젝트(풀스택, MVC)](https://github.com/jaeho99/teamproject)
+
 교육 기간 : 6개월 평일 9시간 씩
 프로젝트 기간 : 3주
 기술
 - JSP, Oracle, JavaScript, jQuery, Maven, Mybatis
+
+아키텍쳐(그림) 첨부
+
 
 Spring
 - Java
@@ -40,6 +47,8 @@ CS 공부
 - 네트워크
 - 데이터베이스
   
+
+공부 후 레포 링크 넣기
 
 <!--
 **jaeho99/jaeho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
